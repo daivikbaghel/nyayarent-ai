@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "id": "UPRUPTA-2021-S11",
+      "law": "Uttar Pradesh Regulation of Urban Premises Tenancy Act, 2021",
+      "section": "11",
+      "heading": "Security deposit",
+      "jurisdiction": "Uttar Pradesh",
+      "verified_rules": [
+        "For residential premises, the security deposit must not exceed two months' rent.",
+        "For non-residential premises, the security deposit must not exceed six months' rent.",
+        "The security deposit is refundable when vacant possession is taken, after deduction of the tenant's liabilities."
+      ],
+      "official_source_note": "Replace with the exact official U.P. Government Gazette or official Act URL before public deployment.",
+      "status": "prototype_verified_record"
+    }
+  ]
+}
